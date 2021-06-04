@@ -82,6 +82,7 @@ nav-link {
 #title .container-fluid {
   padding: 3% 15%;
   text-align: left;
+
 }
 
 /*Title Image*/
@@ -121,7 +122,7 @@ nav-link {
 /*Testimonial Section*/
 #testimonials {
   background-color: #ef8172;
-  
+
 }
 
 .testimonial-text {
